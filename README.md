@@ -1,6 +1,8 @@
-As a learning exercise, this simple multiplayer cookieclicker app is based on the single-player game from the "[LiveView and OTP for beginners](https://github.com/TheArrowsmith/liveview-and-otp-for-beginners)" tutorial. ETS has been added as a data storage source. 
+Multiplayer Cookie Clicker (ETS Version) - A Phoenix LiveView learning project.
 
-For comparison, there is also [a version based on Genserver](https://github.com/vincentping/cookieclicker-genserver).
+Built upon the "[LiveView and OTP for beginners](https://github.com/TheArrowsmith/liveview-and-otp-for-beginners)" tutorial, adding real-time multiplayer features using ETS, PubSub. A practice exercise for learning Elixir concurrency patterns.
+
+For comparison, there is also [a version based on GenServer](https://github.com/vincentping/cookieclicker-genserver).
 
 Also updated Phoenix to 1.8.1, and Phoenix_live_view to 1.1.13.
 
